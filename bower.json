@@ -1,0 +1,21 @@
+{
+  "name": "react_express",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "aishwat <aishwat.singh@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "react": "^15.4.2",
+    "skeleton": "^2.0.4"
+  }
+}
